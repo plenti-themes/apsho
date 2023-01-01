@@ -1,0 +1,36 @@
+{
+    "components": [
+        {
+            "name": "contact_header",
+            "fields": {
+                "title": "Let's talk about everything",
+                "subtitle": "Don't like forms send us an",
+                "email": {
+                    "url": "mailto:help@apsho.com",
+                    "text": "email"
+                }
+            }
+        },
+        {
+            "name": "contact",
+            "fields": {
+                "terms": {
+                    "text1": "Accept ",
+                    "text2": "terms and conditions",
+                    "check": "",
+                    "url": "/"
+                },
+                "form": {
+                    "name": "Full Name",
+                    "email": "Email",
+                    "subject": "Subject",
+                    "message": "Message",
+                    "url": "/"
+                },
+                "button": {
+                    "text":"SUBMIT"
+                }
+            }
+        }
+    ]
+}

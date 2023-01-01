@@ -1,0 +1,11 @@
+{
+	"build": "public",
+	"routes": {
+		"blog": "/blog/",
+		"posts": "/blog/:filename",
+		"pages": ":filename"
+	},
+	"local": {
+		"port": 3000
+	}
+}

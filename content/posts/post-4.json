@@ -1,0 +1,30 @@
+{
+    "title": "Announcing new features to Aspho",
+    "author": {
+       "name": "Jesia Lickons",
+       "avatar": "assets/client/client-3.png",
+       "altText": "Jesia Lickons"
+    },
+    "pubDate": "Oct 13, 2022",
+    "bodyText": "A lot has changed about how we work, and most people have no choice but to transition to working from home. But even before the pandemic, an increasing number of people bid goodbye to their onerous commute to become freelancers and telecommuters. Thanks to ever-evolving technologies such as Skype, Zoom, Facetime, Google Hangouts, Slack, and cloud computing, it’s no longer necessary to be in an office to be productive. In fact, most tasks can be done just as effectively from home.",
+    "subHeading": "Working from Home: Healthy Practices to Stay Productive",
+    "list": {
+        "item1": "Setting a Healthy Routine",
+        "item2": "Proper Ergonomics",
+        "item3": "Exercise Regularly",
+        "item4": "Find Work-Life Balance When Working from Home",
+        "item5": "Dealing with Family Members and Coworkers"
+    },
+    "thumbImage": {
+        "source": "assets/blog/blog-post-4.jpg",
+        "altText": "blog thumbnail"
+    },
+    "image1": {
+        "source": "assets/blog/single-blog-6.jpg",
+        "altText": "blog thumbnail"
+    },
+    "image2": {
+        "source": "assets/blog/single-blog-1.jpg",
+        "altText": "blog thumbnail"
+    }
+}

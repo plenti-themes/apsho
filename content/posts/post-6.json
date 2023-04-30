@@ -2,7 +2,7 @@
     "title": "A new year, a new website. Introducing Apsho 2.0",
     "author": {
        "name": "Jesia Lickons",
-       "avatar": "assets/client/client-1.png",
+       "avatar": "media/client/client-1.png",
        "altText": "Jesia Lickons"
     },
     "pubDate": "Dec 13, 2022",
@@ -16,15 +16,15 @@
         "item5": "Dealing with Family Members and Coworkers"
     },
     "thumbImage": {
-        "source": "assets/blog/blog-post-6.jpg",
+        "source": "media/blog/blog-post-6.jpg",
         "altText": "blog thumbnail"
     },
     "image1": {
-        "source": "assets/blog/single-blog-4.jpg",
+        "source": "media/blog/single-blog-4.jpg",
         "altText": "blog thumbnail"
     },
     "image2": {
-        "source": "assets/blog/single-blog-6.jpg",
+        "source": "media/blog/single-blog-6.jpg",
         "altText": "blog thumbnail"
     }
 }

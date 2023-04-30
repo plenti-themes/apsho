@@ -6,7 +6,7 @@
     <div class="container-fluid">
       <!-- Logo -->
       <a class="navbar-brand" href=".">
-        <img class="logo-main" src="assets/logo.png" alt="logo-white">
+        <img class="logo-main" src="logo.png" alt="logo-white">
       </a>
       <!-- Toogle Button -->
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#mainNav">
@@ -27,15 +27,15 @@
             <a class="nav-link scroll-to" href="#services">Services </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/blog/">Blog</a>
+            <a class="nav-link" href="blog/">Blog</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="." on:click={$user.login}>login</a>
+            <a class="nav-link" href="." on:click={$user.menu}>login</a>
           </li>
         </ul>
         <div class="account-list list-inline">
           <li class="list-inline-item">
-            <a href="/contact/" class="btn btn-sm btn-violate">Get in Touch</a>
+            <a href="contact/" class="btn btn-sm btn-violate">Get in Touch</a>
           </li>
         </div>
       </div>

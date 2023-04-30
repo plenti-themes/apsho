@@ -11,7 +11,7 @@
 					"title": "Turn your business to next level",
 					"body": "Enjoy team diversity and increase their networks among others people in various fields by providing an exceptional facilities and coworking.",
 					"heroImage": {
-						"src": "assets/hero/hero-image.png",
+						"src": "media/hero/hero-image.png",
 						"alt": "hero image"
 					},
 					"appleStore": {
@@ -62,15 +62,15 @@
 							"url": "."
 						},
 						"image1": {
-							"image": "assets/feature/feature-shape-01.svg",
+							"image": "media/feature/feature-shape-01.svg",
 							"alt": "feature shape one"
 						},
 						"image2": {
-							"image": "assets/feature/feature-illustration-one.svg",
+							"image": "media/feature/feature-illustration-one.svg",
 							"alt": "feature illustration one"
 						},
 						"image3": {
-							"image": "assets/feature/feature-shape-02.svg",
+							"image": "media/feature/feature-shape-02.svg",
 							"alt": "feature shape two"
 						}
 					},
@@ -78,15 +78,15 @@
 						"title": "Product start analytics with real problems.",
 						"body": "The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs.",
 						"image1": {
-							"image": "assets/feature/feature-shape-03.svg",
+							"image": "media/feature/feature-shape-03.svg",
 							"alt": "feature shape three"
 						},
 						"image2": {
-							"image": "assets/feature/feature-illustration-two.svg",
+							"image": "media/feature/feature-illustration-two.svg",
 							"alt": "feature illustration two"
 						},
 						"image3": {
-							"image": "assets/feature/feature-shape-04.svg",
+							"image": "media/feature/feature-shape-04.svg",
 							"alt": "feature shape four"
 						},
 						"items": {
@@ -104,27 +104,27 @@
 					"title": "Have a look our awesome app screenshots",
 					"description": "Credibly synthesize multimedia based networks vis-a-vis top-line growth strategies. Continually leverage existing worldwide interfaces",
 					"sliderFrame": {
-						"src": "assets/screenshots/slider-frame.svg",
+						"src": "media/screenshots/slider-frame.svg",
 						"alt": "Slider frame"
 				},
 					"image1": {
-						"src": "assets/screenshots/slider1.png",
+						"src": "media/screenshots/slider1.png",
 						"alt": "Slider image one"
 					},
 					"image2": {
-						"src": "assets/screenshots/slider2.png",
+						"src": "media/screenshots/slider2.png",
 						"alt": "Slider image two"
 					},
 					"image3": {
-						"src": "assets/screenshots/slider3.png",
+						"src": "media/screenshots/slider3.png",
 						"alt": "Slider image three"
 					},
 					"image4": {
-						"src": "assets/screenshots/slider4.png",
+						"src": "media/screenshots/slider4.png",
 						"alt": "Slider image four"
 					},
 					"image5": {
-						"src": "assets/screenshots/slider5.png",
+						"src": "media/screenshots/slider5.png",
 						"alt": "Slider image five"
 					}
 				}
@@ -160,7 +160,7 @@
                         "icon": "ti-control-play"
                     },
                     "image": {
-					  "url": "assets/video/video.png",
+					  "url": "media/video/video.png",
 					  "alt": "Two people on the sofa playing VR"
 				    },
 					"appleStore": {

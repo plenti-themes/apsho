@@ -41,7 +41,7 @@
       <div class="row">
         <div class="col-lg-4 col-md-4">
           <div class="footer-description">
-            <img src="assets/logo.png" alt="logo">
+            <img src="logo.png" alt="logo">
             <p>
               All right reserved <br>
               <a href="https://staticmania.com/" target="_blank">StaticMania</a> Copyright ©<span id="copyrightYear">2022</span>

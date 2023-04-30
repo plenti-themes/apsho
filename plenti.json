@@ -1,10 +1,11 @@
 {
 	"build": "public",
 	"routes": {
-		"blog": "/blog/",
-		"posts": "/blog/:filename",
+		"blog": "blog",
+		"posts": "blog/:filename",
 		"pages": ":filename"
 	},
+	"baseurl": "/apsho/",
 	"local": {
 		"port": 3000
 	}

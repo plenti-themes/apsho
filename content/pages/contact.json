@@ -18,14 +18,14 @@
                     "text1": "Accept ",
                     "text2": "terms and conditions",
                     "check": "",
-                    "url": "/"
+                    "url": "."
                 },
                 "form": {
                     "name": "Full Name",
                     "email": "Email",
                     "subject": "Subject",
                     "message": "Message",
-                    "url": "/"
+                    "url": "."
                 },
                 "button": {
                     "text":"SUBMIT"

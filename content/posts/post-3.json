@@ -2,7 +2,7 @@
     "title": "Announcing our 4th Quarter 2022 Roadmap",
     "author": {
        "name": "Jackson Wick",
-       "avatar": "assets/client/client-2.png",
+       "avatar": "media/client/client-2.png",
        "altText": "Jackson Wick"
     },
     "pubDate": "Sept 13, 2022",
@@ -16,15 +16,15 @@
         "item5": "Dealing with Family Members and Coworkers"
     },
     "thumbImage": {
-        "source": "assets/blog/blog-post-3.jpg",
+        "source": "media/blog/blog-post-3.jpg",
         "altText": "blog thumbnail"
     },
     "image1": {
-        "source": "assets/blog/single-blog-3.jpg",
+        "source": "media/blog/single-blog-3.jpg",
         "altText": "blog thumbnail"
     },
     "image2": {
-        "source": "assets/blog/single-blog-4.jpg",
+        "source": "media/blog/single-blog-4.jpg",
         "altText": "blog thumbnail"
     }
 }

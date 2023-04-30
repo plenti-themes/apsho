@@ -2,7 +2,7 @@
     "title": "Exciting updates to Aspho Web App",
     "author": {
         "name": "Jesia Lickons",
-        "avatar": "assets/client/client-1.png",
+        "avatar": "media/client/client-1.png",
         "altText": "Jesia Lickons"
      },
      "pubDate": "Jul 13, 2022",
@@ -16,15 +16,15 @@
         "item5": "Dealing with Family Members and Coworkers"
     },
     "thumbImage": {
-        "source": "assets/blog/blog-post-1.jpg",
+        "source": "media/blog/blog-post-1.jpg",
         "altText": "blog thumbnail"
     },
     "image1": {
-        "source": "assets/blog/single-blog-1.jpg",
+        "source": "media/blog/single-blog-1.jpg",
         "altText": "blog thumbnail"
     },
     "image2": {
-        "source": "assets/blog/single-blog-5.jpg",
+        "source": "media/blog/single-blog-5.jpg",
         "altText": "blog thumbnail"
     }
 }

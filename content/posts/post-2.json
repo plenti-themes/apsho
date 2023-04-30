@@ -2,7 +2,7 @@
     "title": "New feature updates. Introducing Apsho 1.2",
     "author": {
        "name": "Marlon Simons",
-       "avatar": "assets/client/client-3.png",
+       "avatar": "media/client/client-3.png",
        "altText": "Marlon Simons"
     },
     "pubDate": "Aug 13, 2022",
@@ -16,15 +16,15 @@
         "item5": "Dealing with Family Members and Coworkers"
     },
     "thumbImage": {
-        "source": "assets/blog/blog-post-2.jpg",
+        "source": "media/blog/blog-post-2.jpg",
         "altText": "blog thumbnail"
     },
     "image1": {
-        "source": "assets/blog/single-blog-2.jpg",
+        "source": "media/blog/single-blog-2.jpg",
         "altText": "blog thumbnail"
     },
     "image2": {
-        "source": "assets/blog/single-blog-6.jpg",
+        "source": "media/blog/single-blog-6.jpg",
         "altText": "blog thumbnail"
     }
 }

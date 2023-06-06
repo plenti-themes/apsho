@@ -13,8 +13,7 @@ const scroll = e => {
 </script>
 <svelte:window bind:scrollY={y}/>
 
-
-<nav class="main-nav navbar navbar-expand-lg headroom headroom--pinned headroom--top {y > 50 ? ' active' : ''}">
+<nav class="main-nav navbar navbar-expand-lg headroom headroom--top {y > 50 ? ' headroom--unpinned active' : ' headroom--pinned'}">
     <div class="container-fluid">
       <!-- Logo -->
       <a class="navbar-brand" href=".">
@@ -30,24 +29,24 @@ const scroll = e => {
         <!-- Navigation Links -->
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a on:click|preventDefault={e => scroll(e)} class="nav-link" href=".">Home </a>
+            <a class="nav-link" href=".">Home </a>
           </li>
           <li class="nav-item">
-            <a on:click|preventDefault={e => scroll(e)} class="nav-link scroll-to" href="#about">About </a>
+            <a class="nav-link scroll-to" href="#about">About </a>
           </li>
           <li class="nav-item">
-            <a on:click|preventDefault={e => scroll(e)} class="nav-link scroll-to" href="#services">Services </a>
+            <a class="nav-link scroll-to" href="#services">Services </a>
           </li>
           <li class="nav-item">
-            <a on:click|preventDefault={e => scroll(e)} class="nav-link" href="blog/">Blog</a>
+            <a class="nav-link" href="blog/">Blog</a>
           </li>
           <li class="nav-item">
-            <a on:click|preventDefault={e => scroll(e) } on:click={$user.menu} class="nav-link" href=".">login</a>
+            <a class="nav-link" href="#login">login</a>
           </li>
         </ul>
         <div class="account-list list-inline">
           <li class="list-inline-item">
-            <a on:click|preventDefault={e => scroll(e)} href="contact/" class="btn btn-sm btn-violate">Get in Touch</a>
+            <a href="contact/" class="btn btn-sm btn-violate">Get in Touch</a>
           </li>
         </div>
       </div>

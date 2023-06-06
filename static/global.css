@@ -45,6 +45,7 @@ html {
   -ms-text-size-adjust: 100%;
   -ms-overflow-style: scrollbar;
   -webkit-tap-highlight-color: transparent;
+  scroll-behavior: smooth;
 }
 @-ms-viewport {
   width: device-width;
@@ -270,7 +271,10 @@ textarea {
   overflow: auto;
   resize: vertical;
 }
- main fieldset {
+.sidenav-wrapper fieldset {
+  padding: revert;
+}
+main fieldset {
   min-width: 0;
   padding: 0;
   margin: 0;
@@ -8585,12 +8589,6 @@ h4 {
 .main-nav.nav-bg .nav-link::before {
   background: #e6e6e6 !important;
 }
-.headroom {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-}
 .headroom--unpinned {
   top: -150px !important;
 }
@@ -13401,11 +13399,11 @@ img.mfp-img {
 }
 @font-face {
   font-family: "themify";
-  src: url("../fonts/themify.eot?-fvbane");
-  src: url("../fonts/themify.eot?#iefix-fvbane") format("embedded-opentype"),
-    url("../fonts/themify.woff?-fvbane") format("woff"),
-    url("../fonts/themify.ttf?-fvbane") format("truetype"),
-    url("../fonts/themify.svg?-fvbane#themify") format("svg");
+  src: url("themify-icons/fonts/themify.eot?-fvbane");
+  src: url("themify-icons/fonts/themify.eot?#iefix-fvbane") format("embedded-opentype"),
+    url("themify-icons/fonts/themify.woff?-fvbane") format("woff"),
+    url("themify-icons/fonts/themify.ttf?-fvbane") format("truetype"),
+    url("themify-icons/fonts/themify.svg?-fvbane#themify") format("svg");
   font-weight: normal;
   font-style: normal;
 }

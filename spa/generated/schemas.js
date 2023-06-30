@@ -1,0 +1,1 @@
+const allSchemas={pages:{},posts:{}};export default allSchemas
